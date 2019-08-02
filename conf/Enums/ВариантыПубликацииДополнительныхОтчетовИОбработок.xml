@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.7">
+	<Enum uuid="f9033486-3571-40e3-97c1-aef77d3b124f">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ВариантыПубликацииДополнительныхОтчетовИОбработок" category="Ref">
+				<xr:TypeId>ecbca0cc-ac41-4ecb-a160-0b82fe0ccfa8</xr:TypeId>
+				<xr:ValueId>8302b6f7-3776-4e42-9962-06667610042c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ВариантыПубликацииДополнительныхОтчетовИОбработок" category="Manager">
+				<xr:TypeId>a0d81177-fcab-43c8-9da1-fb12b620826a</xr:TypeId>
+				<xr:ValueId>ceecb2a5-ec7d-4928-8e80-3aad01849da6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ВариантыПубликацииДополнительныхОтчетовИОбработок" category="List">
+				<xr:TypeId>2bdbb602-a697-48d6-975d-b95bbd482062</xr:TypeId>
+				<xr:ValueId>cb5aa443-3c7f-4759-9098-17aa48d78c42</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ВариантыПубликацииДополнительныхОтчетовИОбработок</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="98cd02ad-61f8-4527-b49c-e56b2c1c9085">
+				<Properties>
+					<Name>РежимОтладки</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

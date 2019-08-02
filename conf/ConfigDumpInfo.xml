@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.7">
+	<ConfigVersions>
+		<Metadata name="Catalog.ДополнительныеОтчетыИОбработки" id="fa359f83-123c-47c7-942c-b2d7c68c46b3" configVersion="cf73bbbc7c5a4b1c64c75dea8e4848633547a6ba">
+			<Metadata name="Catalog.ДополнительныеОтчетыИОбработки.Attribute.Публикация" id="96008da4-778f-4eb6-ac97-5eeb268fc938"/>
+			<Metadata name="Catalog.ДополнительныеОтчетыИОбработки.Attribute.ХранилищеОбработки" id="b558f292-67ed-4f32-b019-5ca259f828c5"/>
+			<Metadata name="Catalog.ДополнительныеОтчетыИОбработки.Attribute.ИмяОбъекта" id="c63d7800-dc50-46a7-8fc5-14f3cfd0b328"/>
+			<Metadata name="Catalog.ДополнительныеОтчетыИОбработки.Attribute.ИмяФайла" id="d11266a2-0255-4419-9cfc-638c9e17242c"/>
+		</Metadata>
+		<Metadata name="Catalog.ОтладкаВнешних_Отлаживаемые" id="12908f10-df40-4a61-9423-bd771d00a69a" configVersion="ae70d938a03d9e2c21be854e770f694162e29ad2">
+			<Metadata name="Catalog.ОтладкаВнешних_Отлаживаемые.Attribute.Отладка" id="0589edb1-9ca5-44d2-ae45-18235d7bf20a"/>
+			<Metadata name="Catalog.ОтладкаВнешних_Отлаживаемые.Attribute.Пользователь" id="36b4e4c8-97e2-409d-bfc6-8a83f55ca45a"/>
+			<Metadata name="Catalog.ОтладкаВнешних_Отлаживаемые.Attribute.СсылкаНаОбработку" id="7fff9eb1-3a36-4e57-93e3-7e04c6ef44c0"/>
+			<Metadata name="Catalog.ОтладкаВнешних_Отлаживаемые.Attribute.ИмяФайла" id="86b85bb6-c63c-4aa4-9868-5d641b05d328"/>
+		</Metadata>
+		<Metadata name="Catalog.Пользователи" id="d2e5df36-406f-4962-972c-4ba152415bb7" configVersion="b8dda7fa0894dc81e80e193ce1a9a9c5188afbcb"/>
+		<Metadata name="CommonModule.ДополнительныеОтчетыИОбработки" id="8e2ac4e2-868f-4fdd-8c61-f43139e42dec" configVersion="e6f716ef7d8aa96f598e82f2f412c04d97798bbb"/>
+		<Metadata name="CommonModule.ДополнительныеОтчетыИОбработки.Module" id="8e2ac4e2-868f-4fdd-8c61-f43139e42dec.0" configVersion="bd41095fccfa4c28f5e8b24fc20fad0912f4d3fb"/>
+		<Metadata name="Configuration.ОтладкаВнешнихОбработок" id="772ccc70-5e3e-4581-9cab-d90e47a9a281" configVersion="c359b42f01a3a36ff655ca050f0c4584f482534c"/>
+		<Metadata name="Enum.ВариантыПубликацииДополнительныхОтчетовИОбработок" id="f9033486-3571-40e3-97c1-aef77d3b124f" configVersion="03f9a3ce222374395ceb3f226685d8364d0eb2c4">
+			<Metadata name="Enum.ВариантыПубликацииДополнительныхОтчетовИОбработок.EnumValue.РежимОтладки" id="98cd02ad-61f8-4527-b49c-e56b2c1c9085"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="068208cd-1409-4002-81b8-ac7ed8e50398" configVersion="f26c476c1d51317b719ffaf85bdadf1f9016dd1c"/>
+		<Metadata name="Subsystem.Администрирование" id="4e1fd33f-65dc-4aa0-9277-768edc743ca4" configVersion="fe8078cd8ec8208c700ef0789067439cdad9f5e0"/>
+		<Metadata name="Subsystem.Администрирование.Subsystem.ОтчетыИОбработки" id="dfd02c43-d757-4249-b1ec-d27733a342f0" configVersion="0ede82a9ba219c21371e8e349447caf5e41933fb"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

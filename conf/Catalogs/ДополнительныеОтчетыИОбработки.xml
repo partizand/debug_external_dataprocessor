@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.7">
+	<Catalog uuid="fa359f83-123c-47c7-942c-b2d7c68c46b3">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ДополнительныеОтчетыИОбработки" category="Object">
+				<xr:TypeId>6882977d-edf0-4992-a81b-84a9f2d5c6d6</xr:TypeId>
+				<xr:ValueId>80201d4f-68a0-4ba8-9c45-b8ff4d378618</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ДополнительныеОтчетыИОбработки" category="Ref">
+				<xr:TypeId>4e632463-ba88-4248-9b51-a833be463e02</xr:TypeId>
+				<xr:ValueId>6837b593-0271-4e2c-b694-aea5ea827c5a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ДополнительныеОтчетыИОбработки" category="Selection">
+				<xr:TypeId>47603cda-491d-48f4-93c6-8610f23c0743</xr:TypeId>
+				<xr:ValueId>3e432386-a83b-4567-879b-68b132b39895</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ДополнительныеОтчетыИОбработки" category="List">
+				<xr:TypeId>4e4c9a66-7d93-4e31-9fa5-aae9a02a371c</xr:TypeId>
+				<xr:ValueId>f6e9fdb5-87fd-4cc5-9eeb-22481ac45e41</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ДополнительныеОтчетыИОбработки" category="Manager">
+				<xr:TypeId>9a800727-0e89-47a6-90b9-bc5721971ea7</xr:TypeId>
+				<xr:ValueId>16172595-dec2-4a75-8072-606f2e6fce07</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ДополнительныеОтчетыИОбработки</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects>
+			<Attribute uuid="d11266a2-0255-4419-9cfc-638c9e17242c">
+				<Properties>
+					<Name>ИмяФайла</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>260</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="96008da4-778f-4eb6-ac97-5eeb268fc938">
+				<Properties>
+					<Name>Публикация</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>cfg:EnumRef.ВариантыПубликацииДополнительныхОтчетовИОбработок</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="c63d7800-dc50-46a7-8fc5-14f3cfd0b328">
+				<Properties>
+					<Name>ИмяОбъекта</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>256</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="b558f292-67ed-4f32-b019-5ca259f828c5">
+				<Properties>
+					<Name>ХранилищеОбработки</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>v8:ValueStorage</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+		</ChildObjects>
+	</Catalog>
+</MetaDataObject>
