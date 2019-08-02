@@ -58,12 +58,11 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
-			<Subsystem>Администрирование</Subsystem>
 			<CommonModule>ДополнительныеОтчетыИОбработки</CommonModule>
 			<Catalog>ДополнительныеОтчетыИОбработки</Catalog>
-			<Catalog>ОтладкаВнешних_Отлаживаемые</Catalog>
 			<Catalog>Пользователи</Catalog>
 			<Enum>ВариантыПубликацииДополнительныхОтчетовИОбработок</Enum>
+			<InformationRegister>ОтладкаВнешних_ВнешниеОбработкиОтладка</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
